@@ -1,1 +1,0 @@
-print("Nam Khanh Pham")
